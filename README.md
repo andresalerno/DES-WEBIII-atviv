@@ -47,6 +47,13 @@ Inicie a aplicação:
 
 Acesse o site do Swagger: http://localhost:8080/swagger-ui/index.html#/
 
+OBSERVAÇÃO: para evitar problemas, faça o cadastro inicial de:
+
+- clientes
+- mercadorias
+- serviços
+- usuários (COM TODOS OS PERFIS)
+
 1) Administrador
 
 1.1) Autenticação
