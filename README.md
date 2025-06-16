@@ -43,7 +43,7 @@ public enum Perfil {
 
 Inicie a aplicação:
 
-<img src="./automanager-atviv/img/run_application.gif" alt="Teste 1" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/run_application.gif" alt="Teste 1" width="800">>
 
 Acesse o site do Swagger: http://localhost:8080/swagger-ui/index.html#/
 
