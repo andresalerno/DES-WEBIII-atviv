@@ -58,7 +58,7 @@ Acesse o site do Swagger: http://localhost:8080/swagger-ui/index.html#/
 }
 ```
 
-<img src="./automanager-atviv/img/autenticacao.gif" alt="Teste 1.1" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/autenticacao.gif" alt="Teste 1.1" width="800">>
 
 1.2) Cadastrar admin e obter usuários
 
@@ -77,19 +77,19 @@ Acesse o site do Swagger: http://localhost:8080/swagger-ui/index.html#/
 }
 ```
 
-<img src="./automanager-atviv/img/cadastrar_obter_usuarios.gif" alt="Teste 1.2" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/cadastrar_obter_usuarios.gif" alt="Teste 1.2" width="800">>
 
 1.3) Obter admin por ID e deletar
 
-<img src="./automanager-atviv/img/obter_id_deletar_usuario.gif" alt="Teste 1.3" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/obter_id_deletar_usuario.gif" alt="Teste 1.3" width="800">>
 
 1.4) Atualizar usuário
 
-<img src="./automanager-atviv/img/update_usuario.gif" alt="Teste 1.4" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/update_usuario.gif" alt="Teste 1.4" width="800">>
 
 1.4) Crud completo pelo admin na entidade cliente
 
-<img src="./automanager-atviv/img/crud_cliente_by_admin.gif" alt="Teste 1.4" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/crud_cliente_by_admin.gif" alt="Teste 1.4" width="800">>
 
 1.5) Cadastro de todos os demais perfis com o admin
 
@@ -152,4 +152,4 @@ Obs.: observe que as senhas já foram todas criptografadas. Lembre-se que a senh
 
 Obs.: náo pode criar mercadoria mas pode visualizar
 
-<img src="./automanager-atviv/img/vendedor.gif" alt="Teste 2" width="800">>
+<img src="./atviv-autobots-microservico-spring/automanager-atviv/img/vendedor.gif" alt="Teste 2" width="800">>
